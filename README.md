@@ -13,10 +13,15 @@ run these commands in terminal
 
 ## ScreenShorts
 
-- Main window
+### Main window
 
+- Sorting
 
-![image](https://user-images.githubusercontent.com/89654260/154813880-8f49e7c1-be26-4280-b5f4-91173224469c.png)
+![image](https://user-images.githubusercontent.com/89654260/154813923-7621f249-1836-4ab3-9d9f-18222a7e7352.png)
+
+- Searching
+
+![image](https://user-images.githubusercontent.com/89654260/154813968-facfa37a-439a-428a-b535-f9ee4ed32290.png)
 
 
 
