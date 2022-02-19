@@ -15,6 +15,6 @@ run these commands in terminal
 
 - Main window
 
-![alt text](hhttps://github.com/ShubhamLokesh/Algo-visualizer/tree/master/Images/pic1.png?raw=true)
+![alt text](hhttps://github.com/ShubhamLokesh/Algo-visualizer/master/Images/pic1.png?raw=true)
 
 
