@@ -15,6 +15,11 @@ run these commands in terminal
 
 - Main window
 
-![alt text](hhttps://github.com/ShubhamLokesh/Algo-visualizer/master/Images/pic1.png?raw=true)
+
+![image](https://user-images.githubusercontent.com/89654260/154813880-8f49e7c1-be26-4280-b5f4-91173224469c.png)
+
+
+
+
 
 
